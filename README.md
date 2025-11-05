@@ -74,3 +74,22 @@ export const environment = {
 };
 ```
 
+## 💻 UI Preview
+
+### home
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c4d5e050-6f42-49e4-9768-2ddb00c84841" />
+
+### Login Page
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ab31d178-2b12-4007-8e1d-ae8ea8d41752" />
+
+### payment list
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f7149ce3-ed16-461d-b50f-b30b1afa3f23" />
+
+### payment creation modal
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7c719a2b-c8b1-441d-a906-a57003027aad" />
+
+
+
+
+
