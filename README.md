@@ -3,7 +3,7 @@
 This is the **frontend UI** for the **Payment Orchestrator Lite** project.  
 It provides the user interface for authentication, payment creation, viewing paginated payments, searching, and confirming payments — all powered by the backend API.
 
-> 🔗 Backend API Repo: **https://github.com/your-username/PaymentOrchestratorLite.Api**
+> 🔗 Backend API Repo: **https://github.com/kekgaugetswe/PaymentOrchestratorLite.Api**
 
 ---
 
