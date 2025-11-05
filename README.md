@@ -33,3 +33,44 @@ Verify your versions:
 ```bash
 node -v
 ng version
+```
+## 🟢 Running the Frontend (Angular)
+
+### 1️⃣ Install Angular CLI (if not installed)
+
+```bash
+npm install -g @angular/cli
+```
+### 2️⃣ Install Dependencies
+
+```bash
+ng serve --open
+```
+####The app will automatically open at:
+```bash
+http://localhost:4200/
+```
+
+### 🔗 API Configuration (Important)
+
+The Angular app communicates with the backend API.
+Make sure your API is running — either locally or in Docker.
+
+The frontend expects the API to be available at:
+
+```bash
+
+http://localhost:7297
+```
+If your API runs on a different port or host, update your environment config file:
+
+```bash
+src/environments/environment.ts
+```
+you'll find this
+```ts
+export const environment = {
+  apiBaseUrl: 'http://localhost:7297',
+};
+```
+
